@@ -12,7 +12,7 @@ Proyek ini bertujuan untuk mengklasifikasi gambar terutama daun herbal menggunak
 Data yang digunakan dalam proyek ini diambil dari data mendeley yang berisi 10 daun herbal yaitu belimbing wuluh, pandan, sirih, jambu biji, jeruk nipis, kemangi, lidah buaya, nangka, pepaya, seledri.
 
 **Hasil**
-Setelah dilakukan klasifikasi dengan perbandingan 2 optimizer yaitu Adam dan Stochastic Gradient Descent (SGD) menunjukkan hasil yang paling baik adalah menggunakan optimizer Adam dengan akurasi 
+Setelah dilakukan klasifikasi dengan perbandingan 2 optimizer yaitu Adam dan Stochastic Gradient Descent (SGD) menunjukkan hasil yang paling baik adalah menggunakan optimizer Adam dengan akurasi 82%
 
 **Instalasi**
 - streamlit 
