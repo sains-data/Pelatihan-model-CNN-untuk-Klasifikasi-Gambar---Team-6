@@ -1,7 +1,7 @@
-Nama Projek: Klasifikasi Gambar Daun Herbal menggunakan metode CNN
+**Nama Projek**: Klasifikasi Gambar Daun Herbal menggunakan metode CNN
 
-Anggota Kelompok: - Syifa Alwan Aulia 120450036
+**Anggota Kelompok**: - Syifa Alwan Aulia 120450036
 
-                  - Ahmad Zidan Wirawan 120450044
+                      - Ahmad Zidan Wirawan 120450044
                   
-                  - Silvia Damayanti 120450046
+                      - Silvia Damayanti 120450046
